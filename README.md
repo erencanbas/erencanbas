@@ -41,6 +41,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/erencanbas/erencanbas/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/erencanbas/erencanbas/main/snake.svg" alt="Snake animation" />
 
 ###
