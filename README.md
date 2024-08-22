@@ -4,18 +4,12 @@
 
 ###
 
-
-
-###
-
 <img align="right" height="150" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*eIhVp0KXrXSSHORN.gif"  />
 
 ###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -24,6 +18,8 @@
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="30" alt="laravel logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
 </div>
 
 ###
@@ -38,6 +34,6 @@
 
 <br clear="both">
 
-
+<img src="https://raw.githubusercontent.com/erencanbas/erencanbas/output/snake.svg" alt="Snake animation" />
 
 ###
